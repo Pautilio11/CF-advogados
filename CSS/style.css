@@ -237,6 +237,11 @@ nav .close-icon{
     width: 70%;
     border-radius: 10px;
 }
+.localização .localização-maps{
+    margin: 18px 0;
+    padding: 15px;
+    color: #000000;
+}
 /*end pagina-localização*/
 /*pagina-atuação*/
 .atuação h3{
