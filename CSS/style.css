@@ -110,6 +110,7 @@ nav .close-icon{
 .banner .banner-text h1{
     font-size: 96px;
     color: white;
+    font-family: Century Schoolbook;
 }
 .banner .banner-text p{
     font-size: 20px;
@@ -249,6 +250,7 @@ nav .close-icon{
 }
 .atuação .container > p{
     text-align: center;
+    color: #000000;
 }
 .atuação .rows-cards{
     display: flex;
